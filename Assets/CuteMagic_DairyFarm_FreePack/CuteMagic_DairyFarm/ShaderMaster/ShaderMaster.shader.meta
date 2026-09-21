@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: b601ca08889205a4089c25a82560722e
-ShaderImporter:
-  externalObjects: {}
-  defaultTextures: []
-  nonModifiableTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
   productId: 386488
@@ -14,3 +7,13 @@ AssetOrigin:
   packageVersion: 1.0.0
   assetPath: Assets/CuteMagic_DairyFarm_FreePack/CuteMagic_DairyFarm/ShaderMaster/ShaderMaster.shader
   uploadId: 933214
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AlbedoMap: {fileID: 2800000, guid: 3280e995f9b2d7b4a90db2b3cdd023ae, type: 3}
+  - _NormalInflow: {instanceID: 0}
+  - _PBRComposite: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
